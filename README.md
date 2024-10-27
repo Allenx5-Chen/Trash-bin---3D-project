@@ -1,2 +1,2 @@
-# Trash-bin---3D-project
-3D printing - trash bin - solidworks
+Welcome! # Trash-bin---3D-project
+This is a 3D printing DIY project - trash bin, made by solidworks
